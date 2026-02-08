@@ -103,9 +103,9 @@ The repository contains the following files:
 ## 👨‍💻 Team Members
 
 - Ganesh Prasad  
-- [Member 2 Name]  
-- [Member 3 Name]  
-- [Member 4 Name]  
+- Chirag S Poojary  
+- Chaithanya Maiya
+- Sneha Ganesh
 
 ---
 
